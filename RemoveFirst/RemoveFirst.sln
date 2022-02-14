@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{F803695F-B8D0-459B-9A2F-F12363AEFFBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulation", "ListManipulation\ListManipulation.csproj", "{675C7DE1-E9E5-4A28-A4D6-ED3886FCB232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F803695F-B8D0-459B-9A2F-F12363AEFFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F803695F-B8D0-459B-9A2F-F12363AEFFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F803695F-B8D0-459B-9A2F-F12363AEFFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675C7DE1-E9E5-4A28-A4D6-ED3886FCB232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675C7DE1-E9E5-4A28-A4D6-ED3886FCB232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675C7DE1-E9E5-4A28-A4D6-ED3886FCB232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675C7DE1-E9E5-4A28-A4D6-ED3886FCB232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
